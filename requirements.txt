@@ -3,5 +3,3 @@ plotly
 streamlit
 matplotlib
 seaborn
-time
-numpy
